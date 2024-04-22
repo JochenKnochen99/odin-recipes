@@ -1,0 +1,43 @@
+h1{
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+h2{
+    color: rgb(0, 0, 255);
+    margin: 10px auto;
+    display: block;
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+}
+
+a{
+    text-align: center;
+    font-weight: bold;
+    display: block;
+}
+
+ol{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+ul{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+img{
+    display: inline-block;
+    width: 200px;
+    height: auto;
+}
+div{
+    margin: 0 auto;
+}
