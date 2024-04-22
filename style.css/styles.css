@@ -34,9 +34,10 @@ ul{
 
 
 img{
-    display: inline-block;
+    display: block;
     width: 200px;
     height: auto;
+    margin-left: 40%;
 }
 div{
     margin: 0 auto;
